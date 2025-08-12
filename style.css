@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-block: 8px;
+    background-color: darkgrey;
+}
+
+.container-funcionários{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.funcionario {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    border-radius: 12px;
+}
+
+.funcionario img {
+    width: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
